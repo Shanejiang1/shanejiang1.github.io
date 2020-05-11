@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>第二篇博客</title>
-      <link>https://shanejiang1.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <title>hugo和GitHub Pages</title>
+      <link>https://shanejiang1.github.io/posts/hugo%E5%92%8Cgithub-pages/</link>
       <pubDate>Sun, 10 May 2020 17:08:52 +0800</pubDate>
       
-      <guid>https://shanejiang1.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>https://shanejiang1.github.io/posts/hugo%E5%92%8Cgithub-pages/</guid>
       <description>如何使用hugo搭建个人博客 1 安装hugo [官方教程] (https://gohugo.io/getting-started/installing)
 1.1 [huog releases页面] (https://github.com/gohugoio/hugo/releases) 下载hugo_x.xx.x_Windows-64bit.zip
 1.2 解压，把hugo解压到D:\Software\hugo
@@ -32,7 +32,7 @@
 3.4 在config.toml文件中指定作为默认主题,只需添加行 theme = &amp;quot;ronu-hugo-theme&amp;quot;
 4 config.toml 基本配置
 4.1 首先在配置文件中包含以下配置
-baseURL = “ https://www.example.com/ ” #CN改为大写 languageCode = “ zh-CN ” title = “ MySiteTitle ” theme = “ ronu-hugo-theme ” 5 开始写文章</description>
+ baseURL = &amp;quot;https://www.example.com/&amp;quot; # CN改为大写 languageCode = &amp;quot;zh-CN&amp;quot; title = &amp;quot;MySiteTitle&amp;quot; theme = &amp;quot;ronu-hugo-theme&amp;quot; 5 开始写文章</description>
     </item>
     
     <item>
